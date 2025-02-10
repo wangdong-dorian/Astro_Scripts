@@ -23,3 +23,11 @@ The advantages of this software are as follows :
 - make adjustable contours for graphs
 - save graphs for scientific use
 - easy to add new functionalities...
+
+## Guide to QuickCheck
+The QuickCheck has four panels, each of them is for a special use.
+
+
+- The first two panels
+<img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
+
