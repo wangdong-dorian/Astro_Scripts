@@ -2,7 +2,7 @@
 These two are the inventory of codes for calculating properties for molecular clouds, including
 - excitation temperature
 - optical depth
-- column density for $^{12}$CO, $^{13}$CO and C$^{18}$O
+- column density for 12CO, 13CO and C18O
 - distance measurement
 - mass
 and other tools for handling the fits datacube.
