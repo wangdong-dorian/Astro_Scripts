@@ -49,17 +49,20 @@ The QuickCheck has four Frames, each of them is for a special use.
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
 
 
-> Here is a demostration
+- **The third Frame** contains two sections:
+
+- **The forth Frame** contains two sections:
+
+
+### Here is a demonstration
 
 <img width="888" alt="截屏2025-02-11 11 53 36" src="https://github.com/user-attachments/assets/a844cd91-8683-4f57-9014-d31e25029e74" />
 
-> Use Mouse (left) to mark a box to zoom-in, and then press "Enter" to create the averaged spectra for this selected region
+
+**Use Mouse (left) to mark a box to zoom-in, and then press "Enter" to create the averaged spectra for this selected region**
 
 
-
-**Every Panel has equipped with zoom-in (Mouse left to select box) and zoom-out (Mouse right to return to the previous layer) function**
-
-- The third and forth Frames
+**Every Frame has equipped with zoom-in (Mouse left to select box) and zoom-out (Mouse right to return to the previous layer) function**
 
 <img width="999" alt="截屏2025-02-11 10 18 35" src="https://github.com/user-attachments/assets/41ead878-1ceb-4c9e-aae9-892b9712e1d4" />
 
