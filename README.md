@@ -45,7 +45,7 @@ The QuickCheck has four Frames, each of them is for a special use.
     > The first five spinboxes are for selection of user-determined velocity ranges to make integration maps
     >
     > The button "Plot Background" is for plotting the graph in Frame 3 (based on the region selected in graph 1)
-  - Other buttons' function will be present in the demostration
+  - Other buttons' functions will be present in the demostration
 
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
 
