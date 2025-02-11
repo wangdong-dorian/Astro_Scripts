@@ -60,7 +60,7 @@ The QuickCheck has four Frames, each of them is for a special use.
     >
     > Create P-V trajectory (User-determined coordinates or user-drawn points)
 
-- **The forth Frame** contains one sections:
+- **The fourth Frame** contains one sections:
   - Plot the P-V diagram based on the P-V trajectory
     > Use Mouse left to select a desired region and press "Enter" to plot the averaged spectra for this region and mark the corresponding position in Frame 3
 
