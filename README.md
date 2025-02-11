@@ -63,6 +63,10 @@ The QuickCheck has four Frames, each of them is for a special use.
 
 <img width="999" alt="截屏2025-02-11 10 18 35" src="https://github.com/user-attachments/assets/41ead878-1ceb-4c9e-aae9-892b9712e1d4" />
 
+- main function in the third Frame and forth Frame
+
+<img width="959" alt="截屏2025-02-11 11 33 39" src="https://github.com/user-attachments/assets/af173bf2-3563-4ae1-a3cf-aad6304dd154" />
+
 
 
 
