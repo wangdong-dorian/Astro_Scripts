@@ -25,27 +25,26 @@ The advantages of this software are as follows :
 - easy to add new functionalities...
 
 ## Guide to QuickCheck
-The QuickCheck has four panels, each of them is for a special use.
+The QuickCheck has four Frames, each of them is for a special use.
 
 
-### The first and second panels
-- The first panel contains three sections:
+### The first and second Frames
+- The first Frame contains three sections:
   - the file loading and selecting section
     > load at most 3 three-dimensional datacube and 1 two-dimensional datacube
   - the first graph section
     > draw the moment 0 map of select file
   - the coordinate input section
-    > user input coordinates to create P-V diagram (in frame3)
-- The second panel contains two sections:
+    > user input coordinates to create P-V diagram (in Frame3)
+- The second Frame contains two sections:
   - the second graph section
     > draw the averaged spectra based on the user-selected region in the first graph
   - the multi-functional section
     > the first five spinbox is for selection of user-determined velocity range to make integration map
     
-    > the button "Plot Background" is for plotting the graph in frame3 (based on the region selected in graph1)
+    > the button "Plot Background" is for plotting the graph in Frame3 (based on the region selected in graph1)
 
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
-
 
 
 > Here is a demostration
@@ -60,9 +59,10 @@ The QuickCheck has four panels, each of them is for a special use.
 
 **Every Panel has equipped with zoom-in (Mouse left to select box) and zoom-out (Mouse right to return to the previous layer) function**
 
-- The third and forth panels
+- The third and forth Frames
 
-<img width="1002" alt="截屏2025-02-11 10 03 10" src="https://github.com/user-attachments/assets/54f1c7a8-978f-4132-9f0b-ad318bda29fe" />
+<img width="999" alt="截屏2025-02-11 10 18 35" src="https://github.com/user-attachments/assets/41ead878-1ceb-4c9e-aae9-892b9712e1d4" />
+
 
 
 
