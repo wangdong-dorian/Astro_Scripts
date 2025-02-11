@@ -50,20 +50,19 @@ The QuickCheck has four Frames, each of them is for a special use.
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
 
 
-- **The third Frame** contains two sections:
+- **The Third Frame** contains two sections:
   - The third graph section
-    > Plot the "Background" based on the user-selected region in the first graph
+    > Plot the "Background" based on the user-selected region in the first graph.
   - The multi-functional section
-    > Load at most two catalogues and mark them on the third graph
+    > Load up to two catalogues and mark them on the third graph.
     >
-    > Change contour levels for both P-V diagram in Frame 4 and red-shift and blue-shift integration map based on the selected range in Frame 2
+    > Change contour levels for both the P-V diagram in Frame 4 and the red-shift and blue-shift integration maps based on the selected range in Frame 2.
     >
-    > Create P-V trajectory (User-determined coordinates or user-drawn points)
+    > Create a P-V trajectory (using user-determined coordinates or user-drawn points).
 
-- **The fourth Frame** contains one sections:
+- **The Fourth Frame** contains one section:
   - Plot the P-V diagram based on the P-V trajectory
-    > Use Mouse left to select a desired region and press "Enter" to plot the averaged spectra for this region and mark the corresponding position in Frame 3
-
+    > Use the mouse left button to select a desired region and press "Enter" to plot the averaged spectra for this region and mark the corresponding position in Frame 3.
 
 ### Here is a demonstration
 
