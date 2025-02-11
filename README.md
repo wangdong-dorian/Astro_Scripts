@@ -41,6 +41,7 @@ The QuickCheck has four panels, each of them is for a special use.
     > draw the averaged spectra based on the user-selected region in the first graph
   - the multi-functional section
     > the first five spinbox is for selection of user-determined velocity range to make integration map
+    
     > the button "Plot Background" is for plotting the graph in frame3 (based on the region selected in graph1)
 
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
