@@ -1,4 +1,4 @@
-# DR_WareHoouse & WareHouse_1 
+# DR_WareHouse & WareHouse_1 
 These two are the inventory of codes for calculating properties for molecular clouds, including
 
 
