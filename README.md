@@ -1,15 +1,14 @@
-# DR_WareHouse & WareHouse_1 
-These two are the inventory of codes for calculating properties for molecular clouds, including
+# DR_WareHouse & WareHouse_1
 
+These two are the inventory of codes for calculating properties of molecular clouds, including:
 
-- excitation temperature
-- optical depth
-- column density for 12CO, 13CO and C18O
-- distance measurement
-- mass
+- Excitation temperature
+- Optical depth
+- Column density for 12CO, 13CO, and C18O
+- Distance measurement
+- Mass
 
-
-and other methods for handling the fits file.
+and other methods for handling FITS files.
 
 # QuickCheck
 
