@@ -19,7 +19,7 @@ The advantages of this software are as follows:
 - Handle at most three 3D datacubes at the same time
 - Perform a quick check of data's spectra for any region
 - Create P-V diagrams by coordinates or any two points in the map
-- Match with at most catalogues
+- Match with at most two catalogues
 - Make adjustable contours for graphs
 - Save graphs for scientific use
 - Easy to add new functionalities...
@@ -34,24 +34,35 @@ The QuickCheck has four Frames, each of them is for a special use.
   - The file loading and selecting section
     > Load at most three three-dimensional datacubes and one two-dimensional datacube
   - The first graph section
-    > Draw the moment 0 map of the selected file
+    > Plot the moment 0 map of the selected file
   - The coordinate input section
-    > input User coordinates to create P-V diagrams (in Frame 3)
+    > Input user-determined coordinates to create P-V diagrams (in Frame 3)
 
 - **The second Frame** contains two sections:
   - The second graph section
-    > Draw the averaged spectra based on the user-selected region in the first graph
+    > Plot the averaged spectra based on the user-selected region in the first graph
   - The multi-functional section
     > The first five spinboxes are for selection of user-determined velocity ranges to make integration maps
     >
     > The button "Plot Background" is for plotting the graph in Frame 3 (based on the region selected in graph 1)
+  - Other buttons' function will be present in the demostration
 
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
 
 
 - **The third Frame** contains two sections:
+  - The third graph section
+    > Plot the "Background" based on the user-selected region in the first graph
+  - The multi-functional section
+    > Load at most two catalogues and mark them on the third graph
+    >
+    > Change contour levels for both P-V diagram in Frame 4 and red-shift and blue-shift integration map based on the selected range in Frame 2
+    >
+    > Create P-V trajectory (User-determined coordinates or user-drawn points)
 
-- **The forth Frame** contains two sections:
+- **The forth Frame** contains one sections:
+  - Plot the P-V diagram based on the P-V trajectory
+    > Use Mouse left to select a desired region and press "Enter" to plot the averaged spectra for this region and mark the corresponding position in Frame 3
 
 
 ### Here is a demonstration
