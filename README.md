@@ -31,3 +31,10 @@ The QuickCheck has four panels, each of them is for a special use.
 - The first two panels
 <img width="1427" alt="截屏2025-02-11 07 33 01" src="https://github.com/user-attachments/assets/5d260dea-df92-4c80-8fed-3dad720b8320" />
 
+> Here is a demostration
+<img width="951" alt="截屏2025-02-11 09 40 30" src="https://github.com/user-attachments/assets/9665d8cf-bd54-4edd-bead-513eab98d6e0" />
+> Use Mouse (left) to mark a box to zoom-in, and then press "Enter" to create the averaged spectra for this selected region
+
+**Every Panel has equipped with zoom-in (Mouse left to select box) and zoom-out (Mouse right to return to the previous layer) function**
+
+
