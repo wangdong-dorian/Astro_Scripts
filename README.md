@@ -9,7 +9,7 @@ These two are the inventory of codes for calculating properties for molecular cl
 - mass
 
 
-and other tools for handling the fits datacube.
+and other methods for handling the fits file.
 
 # QuickCheck
 QuickCheck is the GUI software for quickly check the data by simply click the button.
